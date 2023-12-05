@@ -2,7 +2,7 @@ Hi, I’m Doro 👀
 
 - I’m currently learning frontend development with Coding Bootcamps Europe ✨ 
 - I love being creative and learning new things 🌱
-- I have a background in political science and education and I am especially interested with EdTech 🤓
+- I have a background in political science and education and I am especially interested in EdTech 🤓
 - I am based in Berlin 🐻
 
 <!---
